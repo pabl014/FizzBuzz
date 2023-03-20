@@ -10,7 +10,7 @@ namespace FizzBuzz.Pages
 
         [BindProperty]
 
-        public FizzBuzzForm FizzBuzz { get; set; }
+        public FizzBuzzForm FizzBuzz { get; set; } = new FizzBuzzForm();
 
         [BindProperty(SupportsGet = true)]
 

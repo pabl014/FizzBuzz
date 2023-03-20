@@ -16,3 +16,15 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.site_display .form-control {
+    margin-top: 10px;
+}
+
+.site_display .btn {
+    margin-top: 10px;
+}
+
+.site_display .alert {
+    margin-top: 10px;
+}
